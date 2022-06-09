@@ -1,0 +1,15 @@
+/home/ziddi/CompetitiveProgoramming/bin/Debug/net6.0/CompetitiveProgoramming
+/home/ziddi/CompetitiveProgoramming/bin/Debug/net6.0/CompetitiveProgoramming.deps.json
+/home/ziddi/CompetitiveProgoramming/bin/Debug/net6.0/CompetitiveProgoramming.runtimeconfig.json
+/home/ziddi/CompetitiveProgoramming/bin/Debug/net6.0/CompetitiveProgoramming.dll
+/home/ziddi/CompetitiveProgoramming/bin/Debug/net6.0/CompetitiveProgoramming.pdb
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/CompetitiveProgoramming.csproj.AssemblyReference.cache
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/CompetitiveProgoramming.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/CompetitiveProgoramming.AssemblyInfoInputs.cache
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/CompetitiveProgoramming.AssemblyInfo.cs
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/CompetitiveProgoramming.csproj.CoreCompileInputs.cache
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/CompetitiveProgoramming.dll
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/refint/CompetitiveProgoramming.dll
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/CompetitiveProgoramming.pdb
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/CompetitiveProgoramming.genruntimeconfig.cache
+/home/ziddi/CompetitiveProgoramming/obj/Debug/net6.0/ref/CompetitiveProgoramming.dll
